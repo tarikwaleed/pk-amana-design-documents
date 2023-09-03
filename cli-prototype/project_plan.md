@@ -14,7 +14,7 @@
 | Milestone      | Start Date | End Date   | Percentage Completed | Description                                           |
 | -------------- | ---------- | ---------- | --------------------- | ----------------------------------------------------- |
 | Milestone 1   | 2023-07-30 | 2023-08-22 | 100%                  | Setting up the Server and Development Environment for the CLI Version   |
-| Milestone 2   | 2023-08-23 | 2023-9-15 | 35%                   | CLI Prototype                                         |
+| Milestone 2   | 2023-08-23 | 2023-9-15 | 60%                   | CLI Prototype                                         |
 | Milestone 3   | 2023-9-16 | 2023-10-16 | 0%                   | Building Web Version (Dashboard) Prototype                     |
 | Milestone 4   | 2023-10-17 | 2023-12-31 | 0%                    | Final Version(Dashboard) Version                                         |
 
