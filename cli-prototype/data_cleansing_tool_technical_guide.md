@@ -1,14 +1,20 @@
-![alt](images/logo.jpeg)
-# Progress Documentation: Data Cleansing and Correction Tool Development
+<!-- ![alt](images/logo.jpeg) -->
+<img src="images/logo.jpeg" width="150" height="150">
 
-**Date:** [Date]
-**Project:** Data Cleansing and Correction Tool
-**Client:** [Client's Name]
-**Project Manager:** [Your Name]
+# Technical Guide: Data Cleansing Tool Development
+
+**Date:** 28-08-2023
+
+**Project:** Data Cleansing tool
+
+**Client:** Eastern Region Municipality
+
+**Project Manager:** Eng. Sarah Al-Thabit
+
 
 ## Overview
 
-This document outlines the progress achieved in the development of the Data Cleansing and Correction Tool for [Client's Name]. It includes a step-by-step description of the milestones accomplished thus far in the project.
+This document outlines the progress achieved in the development of the Data Cleansing Tool for Eastern Region Municipality. It includes a step-by-step description of the milestones accomplished thus far in the project.
 
 ## Milestone 1: Setting up Oracle Linux Development Server
 
@@ -91,7 +97,7 @@ In this milestone, we successfully established the Python environment on the Ora
 - Virtualenv
 - some additional python libraries
 
-This environment forms the foundation for building and deploying the Data Cleansing and Correction Tool.
+This environment forms the foundation for building and deploying the Data Cleansing Tool.
 ```shell
 # Update package repository
 sudo yum update -y
@@ -129,15 +135,10 @@ deactivate
 
 ## Conclusion
 
-We are excited about the progress made thus far and look forward to the continued collaboration as we bring the Data Cleansing and Correction Tool to its completion. If you have any questions or feedback, please don't hesitate to reach out.
+We are excited about the progress made thus far and look forward to the continued collaboration as we bring the Data Cleansing Tool to its completion. If you have any questions or feedback, please don't hesitate to reach out.
 
 Sincerely,
 
-[Your Name]
-
-[Your Title]
-
-[Your Contact Information]
 
 
 ---
