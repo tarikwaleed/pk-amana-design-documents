@@ -1,5 +1,5 @@
 ✅ VPN
 ✅ Remote Access
-✅ Internet connection on linux server
+✅ Internet connection
 
 ❌
